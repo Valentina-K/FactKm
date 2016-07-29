@@ -1,0 +1,12 @@
+D:\Пробег по депо\Пробег по депо\bin\Debug\Пробег по депо.exe.config
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег_по_депо.Form1.resources
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег_по_депо.Properties.Resources.resources
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег по депо.csproj.GenerateResource.Cache
+D:\Пробег по депо\Пробег по депо\bin\Debug\Пробег по депо.exe
+D:\Пробег по депо\Пробег по депо\bin\Debug\Пробег по депо.pdb
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег по депо.exe
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег по депо.pdb
+D:\Пробег по депо\Пробег по депо\bin\Debug\Race.mdf
+D:\Пробег по депо\Пробег по депо\bin\Debug\Race_log.ldf
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег_по_депо.LoadData.resources
+D:\Пробег по депо\Пробег по депо\obj\Debug\Пробег по депо.csprojResolveAssemblyReference.cache
